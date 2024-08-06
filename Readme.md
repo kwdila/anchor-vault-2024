@@ -1,4 +1,4 @@
-# Anchor Vault 2023
+# Anchor Vault 2024
 
 A simple Anchor vault that is used to store native SOL tokens.
 
@@ -11,6 +11,7 @@ solana-test-validator
 ```
 
 Then run:
+
 ```
 anchor build
 anchor deploy
